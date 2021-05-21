@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "firstname": "firstname 01",
+      "lastname": "lastname 01",
+      "email": "email01@email.com",
+      "phone": "001101",
+      "password": "password01",
+      "role": "admin",
+    },
+    {
+      "id": "2",
+      "firstname": "firstname 02",
+      "lastname": "lastname 02",
+      "email": "email02@email.com",
+      "phone": "001102",
+      "password": "password02",
+       "role": "user"
+    },
+    {
+      "id": "3",
+      "firstname": "firstname 02",
+      "lastname": "lastname 02",
+      "email": "email02@email.com",
+      "phone": "001102",
+      "password": "password02",
+       "role": "partenaire"
+    }
+    
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "titre": "Categorie 01"
+    },
+    {
+      "id": "2",
+      "titre": "Categorie 02"
+    }
+    
+  ]
+  
+}
