@@ -2,7 +2,9 @@
 
 Edit on StackBlitz ⚡️
 
-# Ticket01 https://stackblitz.com/edit/ticket01
+https://stackblitz.com/edit/ticket01
+
+https://my-json-server.typicode.com/HatemAbid/ticket01
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.1.
 
