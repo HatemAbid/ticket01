@@ -7,7 +7,7 @@
       "email": "email01@email.com",
       "phone": "001101",
       "password": "password01",
-      "role": "admin",
+      "role": "admin"
     },
     {
       "id": "2",
@@ -16,7 +16,7 @@
       "email": "email02@email.com",
       "phone": "001102",
       "password": "password02",
-       "role": "user"
+      "role": "user"
     },
     {
       "id": "3",
@@ -25,7 +25,7 @@
       "email": "email02@email.com",
       "phone": "001102",
       "password": "password02",
-       "role": "partenaire"
+      "role": "partenaire"
     },
     
   ],
