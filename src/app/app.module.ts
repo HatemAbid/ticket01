@@ -6,7 +6,9 @@ import { NavbarComponent } from './shared/navbar/navbar.component';
 import { SidebarComponent } from './shared/sidebar/sidebar.component';
 import { FooterComponent } from './shared/footer/footer.component';
 import { DashboardComponent } from './dashboard/dashboard.component';
-import { ContentComponent } from './shared/content/content.component';
+import { ROUTING } from './app.routing';
+import { LoginComponent } from './login/login.component';
+import { InscriptionComponent } from './inscription/inscription.component';
 
 @NgModule({
   declarations: [
@@ -15,10 +17,12 @@ import { ContentComponent } from './shared/content/content.component';
     SidebarComponent,
     FooterComponent,
     DashboardComponent,
-    ContentComponent
+    LoginComponent,
+    InscriptionComponent
   ],
   imports: [
-    BrowserModule
+    BrowserModule,
+    ROUTING
   ],
   providers: [],
   bootstrap: [AppComponent]
